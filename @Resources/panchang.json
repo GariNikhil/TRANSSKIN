@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-06T06:00:30.323487+05:30",
+  "date": "2026-11-06",
+  "location": {
+    "name": "Anantapur, India",
+    "latitude": 14.6819,
+    "longitude": 77.6006,
+    "timezone": "Asia/Kolkata"
+  },
+  "calendar": "telugu-amanta",
+  "locationSelection": {
+    "country": "India",
+    "city": "Anantapur",
+    "region": "south-indian",
+    "monthStart": "amavasya"
+  },
+  "tithi": {
+    "name": "Dwadashi",
+    "number": 27,
+    "paksha": "Krishna",
+    "endsAt": "2026-11-06T09:18:23.374818+05:30"
+  },
+  "moonImage": "images\\moom phases\\krishna\\12.jpg",
+  "weekday": "Shukrawara",
+  "ritu": "Sharad",
+  "lunarMonth": {
+    "name": "Kartika",
+    "amanta": "Kartika",
+    "start": "amavasya"
+  },
+  "samvatsara": {
+    "name": "Parabhava",
+    "shaka": 1948,
+    "vikram": 2083
+  },
+  "status": "ok",
+  "error": "",
+  "staleAfterSeconds": 172800,
+  "isStale": false
+}
