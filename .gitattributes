@@ -1,0 +1,18 @@
+# Auto-generated Panchang output — produced by tools/panchang/calculate_panchang.py
+@Resources/panchang.json linguist-generated=true
+@Resources/plugins/PanchangData.inc linguist-generated=true
+
+# Binary assets — exclude from text/language statistics
+@Resources/fonts/*.ttf binary linguist-generated=true
+@Resources/images/** binary linguist-generated=true
+@Resources/plugins/TopProcesses.dll binary linguist-generated=true
+*.psd binary linguist-generated=true
+*.jpg binary linguist-generated=true
+*.png binary linguist-generated=true
+
+# Documentation
+*.md linguist-documentation=true
+
+# Rainmeter skin configuration files (kept as plain text for diffing)
+*.ini text
+*.inc text
